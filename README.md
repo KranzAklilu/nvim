@@ -7,6 +7,8 @@ A beautiful neovim config with plugins for beginners
 # INSTALL
 
 * Clone the repo:
-'''
+
+
+```
 git clone https://github.com/SAMPAIAO/nvim
-'''
+```
