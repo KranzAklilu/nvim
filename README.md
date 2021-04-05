@@ -18,6 +18,6 @@ git clone https://github.com/SAMPAIAO/nvim
 mkdir ~/.config/nvim && cp -r init.vim ~/.config/nvim/
 ```
 
-* open nvim and type :```:PlugInstall```
+* open nvim and type :```:PlugInstall``` (this will install neovim plugins)
 
 ![alt text](https://i.imgur.com/zkKWrDw.png)
