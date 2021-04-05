@@ -18,3 +18,6 @@ git clone https://github.com/SAMPAIAO/nvim
 mkdir ~/.config/nvim && cp -r init.vim ~/.config/nvim/
 ```
 
+* open nvim and type :```:PlugInstall```
+
+![alt text](https://i.imgur.com/zkKWrDw.png)
